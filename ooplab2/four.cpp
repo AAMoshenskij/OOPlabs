@@ -154,7 +154,7 @@ Four Four::add(const Four &other)
         --res._size;
 
     }
-// У меня лабу ведт чурка
+
     this->assign(res);
 
     return *this;
